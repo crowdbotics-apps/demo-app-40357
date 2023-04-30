@@ -227,7 +227,9 @@ const textStyles = StyleSheet.create({
     borderRadius: 10,
     fontSize: 14,
     borderWidth: 1,
-    paddingHorizontal: 10
+    paddingHorizontal: 10,
+    position: "absolute",
+    top: -53
   },
   error: {
     fontSize: 13,
