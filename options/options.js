@@ -2,7 +2,7 @@ export const globalOptions = {
   "name": "demo-app-40357",
   "url": "https://demo-app-40357.botics.co",
   "api": "https://demo-app-40357.botics.co/api/v1",
-  "initialRoute": "Untitled1"
+  "initialRoute": "login-2"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
